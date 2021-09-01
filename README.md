@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @davidsonasd
+- 👀 I’m interested in Alogorithms, Mathamatics and carpentry.
+- 🌱 I’m currently learning for my Cs masters.
+- 💞️ I’m looking to collaborate on interesting projects utilizing theoretical Cs research.
+- 📫 How to reach me: email davidsonasd@gmail.com
